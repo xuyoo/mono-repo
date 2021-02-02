@@ -1,8 +1,8 @@
 {
   "name": "@mono-repo-demo/amaze",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "dependencies": {
-    "@mono-repo-demo/common": "^1.0.2"
+    "@mono-repo-demo/common": "^1.0.3"
   },
   "scripts": {
     "start": "node ../../scripts/start.js",
