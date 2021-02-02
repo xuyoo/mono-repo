@@ -1,8 +1,8 @@
 {
   "name": "@mono-repo-demo/cyber",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {
-    "@mono-repo-demo/common": "^1.0.0"
+    "@mono-repo-demo/common": "^1.0.1"
   },
   "scripts": {
     "start": "node ../../scripts/start.js",
